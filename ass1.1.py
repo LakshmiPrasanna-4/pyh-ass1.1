@@ -1,0 +1,6 @@
+print('My name is P.Lakshmi Prasanna')
+print('My father name is P.Raj Kumar')
+print('My mother name is P.Satya Santha Kumari')
+print('I am pursuing BCA in Aditya Degree College')
+print('My favourite colour is Pink')
+print('My hobbies are listening to music')
